@@ -17,3 +17,7 @@ Two scripts are included in the file:
 ## Disclaimer
 
 This file is provided for personal, non-commercial, use. It is not sponsored or authorised by the LEGO Group.
+
+## Related
+
+Marble Run Kit: https://github.com/dpt/MarbleRunKit
