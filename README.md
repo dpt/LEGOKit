@@ -7,6 +7,8 @@ The pieces are constructed using quads. This enables subdivision surfaces to be 
 
 ![Render](Screenshots/render.jpg)
 
+![Render](Screenshots/render180.jpg)
+
 ## Scripts
 
 Two scripts are included in the file:
